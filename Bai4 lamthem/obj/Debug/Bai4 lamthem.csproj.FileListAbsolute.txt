@@ -1,0 +1,7 @@
+D:\LAB\Lab2\Bai4 lamthem\bin\Debug\Bai4 lamthem.exe.config
+D:\LAB\Lab2\Bai4 lamthem\bin\Debug\Bai4 lamthem.exe
+D:\LAB\Lab2\Bai4 lamthem\bin\Debug\Bai4 lamthem.pdb
+D:\LAB\Lab2\Bai4 lamthem\obj\Debug\Bai4 lamthem.csproj.AssemblyReference.cache
+D:\LAB\Lab2\Bai4 lamthem\obj\Debug\Bai4 lamthem.csproj.CoreCompileInputs.cache
+D:\LAB\Lab2\Bai4 lamthem\obj\Debug\Bai4 lamthem.exe
+D:\LAB\Lab2\Bai4 lamthem\obj\Debug\Bai4 lamthem.pdb
